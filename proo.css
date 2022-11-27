@@ -1,0 +1,71 @@
+body{
+    background-color:bisque;
+
+}
+
+#head{
+
+    background-color: rgb(255, 0, 255);
+    padding: 20px 20px 10px 20px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    font-family:sans-serif;
+    color: whitesmoke;
+    margin: 15px 15px 15px 15px;
+}
+#mywebsite{
+    padding-top: 60px;
+
+}
+
+#head2{
+    background-color: rgb(208, 226, 43);
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 15px 10px 15px;
+    margin: 15px 15px 15px 15px;
+    color:maroon;
+    text-decoration: underline;
+    border-style: solid;
+    border-color:chartreuse;
+}
+#head3{
+    margin: 15px 15px 10px 15px;
+
+}
+
+.card-header{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: rgb(205, 248, 255);
+}
+
+#card{
+    padding: 25px 25px 25px 25px;
+}
+    
+
+.my{
+    text-align: center;
+    color: chocolate;
+    margin: 0px 0px 0px 0px;
+    text-decoration: underline;
+    font-size: 35px;
+}
+.my2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+
+
+#about{
+    border-style: solid;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+

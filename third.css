@@ -1,0 +1,87 @@
+.tab{
+
+    background-color: rgb(187, 255, 0);
+    margin: 15px 15px 15px 15px;
+    text-decoration: underline;
+        
+     
+    }
+    #tab{
+    
+        background-color: rgb(255, 115, 0);
+        text-decoration: underline;
+        margin: 30px 30px 30px 30px;
+         
+        }
+    
+    h3{
+        padding: 10px 10px 10px 50px;
+    }
+    .main{
+        background-color:bisque;
+        margin: 20px  20px 20px 20px;
+    }
+    
+    .don{
+        background-color: lightyellow;
+        margin: 15px 15px 15px 15px;
+        padding: 30px 30px 30px 30px;
+      
+    }
+    
+    .tab4{
+        background-color: lightpink;
+        margin: 15px 15px 15px 15px;
+        text-decoration: underline;
+    }
+    #head{
+    
+        background-color: rgb(255, 0, 255);
+        padding: 20px 20px 10px 20px;
+        font-size: 40px;
+        text-align: center;
+        text-decoration: underline;
+        font-family:sans-serif;
+        color: whitesmoke;
+        margin: 15px 15px 15px 15px;
+    }
+    #head3{
+        margin: 15px 15px 10px 15px;
+    
+    }
+    #mywebsite{
+        padding-top: 60px;
+    
+    }
+    
+    #card{
+        background-color:lightgray;
+    }
+    #card2{
+        background-color: lightcyan;
+    }
+    #lol{
+    background-color: magenta;
+    }
+    #lol2{
+        background-color: magenta;
+    
+    }
+    
+
+    
+    #last2{
+    background-color: aquamarine;
+
+    }
+
+    
+.lollast{
+    
+    margin: 5px 5px 50px 5px;
+    background-color: blanchedalmond;
+}
+
+#lollast{
+    background-color: magenta;
+}

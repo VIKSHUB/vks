@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: lightskyblue;
+    text-decoration: underline;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    border-style: solid;
+    
+}
+.h1{
+    margin-top: 1000px;
+}
+
+h4{
+    text-align: center;
+    background-color: cyan;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    border-style: solid;
+    
+}
+.pho{
+    margin-top: 150px;
+    border-radius: 50px;
+}
+.con{
+    background-color: lightsalmon;
+}
